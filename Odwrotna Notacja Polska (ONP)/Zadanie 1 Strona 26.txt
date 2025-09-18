@@ -1,0 +1,10 @@
+Zadanie 1 Strona 26
+Informatyka na czasie 3 Zakres Rozszerzony
+
+Napisz program, który wczyta napis złożony 
+wyłącznie z nawiasów okrągłych oraz sprawdzi,
+czy są one właściwie sparowane.
+Program powinien wypisać słowo "TAK" lub "NIE".
+Na przykład dla napisu "(())" program zwróci "TAK",
+dla napisu ")(()" - "NIE".
+
