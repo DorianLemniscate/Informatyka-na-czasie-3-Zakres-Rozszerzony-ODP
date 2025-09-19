@@ -1,0 +1,25 @@
+Zadanie 2 Strona 26
+Informatyka na czasie 3 Zakres Rozszerzony
+
+Napisz program zamieniający wyrażenie algebraiczne 
+zapisane w notacji tradycyjnej na wyrażenie w odwrotnej notacji polskiej.
+W wyrażeniu mogą wystąpić argumenty jednoznakowe (litery lub liczby jednocyfrowe), nawiasy okrągłe oraz dwuargumentowe działania arytmetyczne:
+dodawanie (+), odejmowanie (-), mnożenie (*), wyznaczanie części całkowitej
+z dzielenia (/) oraz reszty z dzielenia (%).
+
+Komentarz:
+
+Znak '#' pełni role wartownika,
+czyli elementu dodanego do stosu.
+
+s.push('#');
+Zanim program zacznie 
+przetwarzanie wyrażeń,
+wartownik ('#') jest
+umieszony na stosie,
+jako dno stosu.
+Dzięki temu stos nigdy nie jest pusty.
+Eliminując konieczności 
+sprawdzania czy stos jest pusty.
+
+Wartownik nie trafia do wyniku ONP. 
