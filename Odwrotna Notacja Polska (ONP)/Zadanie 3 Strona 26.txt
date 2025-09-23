@@ -1,0 +1,10 @@
+Zadanie 3 Strona 26
+Informatyka na czasie 3 Zakres Rozszerzony
+
+Napisz program obliczający wartość wyrażenia arytmetycznego 
+zapisanego w odwrotnej notacji polskiej.
+Wyrażenie może się składać z cyfr jako argumentów jednoznakowych
+oraz z dwuargumentowych działań arytmetycznych:
+dodawania (+), odejmowania (-), mnożenia (*),
+wyznaczania części całkowitej z dzielenia (/) oraz
+reszty z dzielenia (%).
